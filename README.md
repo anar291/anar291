@@ -31,7 +31,7 @@
 
 <h3 align="left">Support:</h3>
 <p align="left">
-  <a href="httpsDhyani://www.buymeacoffee.com/anar291" target="_blank">
+  <a href="buymeacoffee.com/anar291" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210" />
   </a>
 </p>
