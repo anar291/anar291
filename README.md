@@ -54,8 +54,6 @@
 
 ### 🎯 Support & Fun  
 <p align="center">
-  <img src="https://img.shields.io/badge/Code%20Like-A%20Pro-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tech-Geek-orange?style=for-the-badge" />
   <a href="https://buymeacoffee.com/anar291" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
   </a>
