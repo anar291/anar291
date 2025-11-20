@@ -1,40 +1,62 @@
-<h1 align="center">Hi 👋, This side Arnab Pandey</h1>
-<h3 align="center">A passionate Tech Geeks</h3>
-
-<p align="left"> <a href="https://twitter.com/arnab_146_" target="blank"><img src="https://img.shields.io/twitter/follow/arnab_146_?logo=twitter&style=for-the-badge" alt="arnab_146_" /></a> </p>
-
-- 🌱 I’m currently learning **Flutter, Java Script**
-
-- 👨‍💻 All of my projects are available at [https://anar291.github.io/Arnab-Page/](https://anar291.github.io/Arnab-Page/)
-
-- 💬 Ask me about **Gearhead**
-
-- 📫 How to reach me **warmitul48@gmail.com**
-
-- ⚡ Fun fact **I think I am funny & computer nerd**
-
-### Blogs posts
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/dev.anar291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.anar291" height="30" width="40" /></a>
-<a href="https://twitter.com/arnab_146_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arnab_146_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arnab-pandey-60a085370/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arnab-pandey-60a085370/" height="30" width="40" /></a>
-<a href="https://medium.com/@anar291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anar291" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Arnab+Pandey;Passionate+Tech+Geek;Flutter+%26+JS+Developer;Always+Learning+New+Tech!" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<h1 align="center">🚀 Welcome to My GitHub Profile 🚀</h1>
+<h3 align="center">A Passionate Tech Geek & Computer Nerd 🤓</h3>
 
-<h3 align="left">Support:</h3>
-<p align="left">
-  <a href="buymeacoffee.com/anar291" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210" />
+---
+
+### 🌟 About Me  
+- 🔭 View my projects at **[Arnab's Page](https://anar291.github.io/Arnab-Page/)** - 🌱 Learning **Flutter & JavaScript** - 💬 Ask me about **Gearhead** - 📫 Reach me at **warmitul48@gmail.com** - ⚡ Fun fact: **I think I am funny (and definitely a computer nerd) 🤖** ---
+
+### 📌 Quick Links  
+<p align="center">
+  <a href="https://anar291.github.io/Arnab-Page/" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-Click%20Here-36BCF7?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/arnab-pandey-60a085370/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://twitter.com/arnab_146_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" />
+  </a>
+  <a href="https://dev.to/dev.anar291" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-Read%20Blogs-0A0A0A?style=for-the-badge&logo=dev.to" />
   </a>
 </p>
-<br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anar291&show_icons=true&locale=en&layout=compact" alt="anar291" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anar291&show_icons=true&locale=en" alt="anar291" /></p>
+### 🛠 Languages & Tools  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,bootstrap,css,dart,flutter,git,python,tailwind,unity,js" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anar291&" alt="anar291" /></p>
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anar291&show_icons=true&theme=radical" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anar291&theme=radical" height="180em" />
+</p>
+
+---
+
+### 📈 Top Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anar291&show_icons=true&locale=en&layout=compact&theme=radical" alt="anar291" />
+</p>
+
+---
+
+### 🎯 Support & Fun  
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20Like-A%20Pro-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tech-Geek-orange?style=for-the-badge" />
+  <a href="https://buymeacoffee.com/anar291" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+  </a>
+</p>
