@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, This side Arnab Pandey</h1>
 <h3 align="center">A passionate Tech Geeks</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anar291" alt="anar291" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/arnab_146_" target="blank"><img src="https://img.shields.io/twitter/follow/arnab_146_?logo=twitter&style=for-the-badge" alt="arnab_146_" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter, Java Script**
